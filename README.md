@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/prasanna-pushspa-kumara-8aa711222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna-pushspa-kumara-8aa711222" height="30" width="40" /></a>
 <a href="https://fb.com/prasanna pushspa kumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanna pushspa kumara" height="30" width="40" /></a>
 <a href="https://dribbble.com/prasa97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="prasa97" height="30" width="40" /></a>
-<a href="https://www.behance.net/prasannpushpak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prasannpushpak2" height="30" width="40" /></a>
+<a href="https://www.behance.net/prasannapushpakumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prasannpushpak2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
