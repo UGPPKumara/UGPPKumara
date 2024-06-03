@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Flutter**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://prasannapushpakumara-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [Here](https://prasannapushpakumara-portfolio.web.app/)
 
 - 💬 Ask me about **React, Html, Css**
 
