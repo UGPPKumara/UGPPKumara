@@ -1,14 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Prasanna Pushpa Kumara</h1>
-<h3 align="center">An creative UI/UX designer and a passionate frontend developer from Sri Lanka</h3>
+<h3 align="center"> A creative UI/UX designer and a passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugppkumara&label=Profile%20views&color=0e75b6&style=flat" alt="ugppkumara" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ugppkumara.github.io/prasanna/](https://ugppkumara.github.io/prasanna/)
+- 👨‍💻 All of my projects are available at [Click Here](https://prasannapushpakumara-portfolio.web.app/)
 
 - 💬 Ask me about **React, Html, Css**
 
